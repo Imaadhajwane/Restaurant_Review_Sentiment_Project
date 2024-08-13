@@ -62,6 +62,7 @@ The preprocessing steps involved:
 Each model was evaluated using accuracy, precision, recall, and F1 score. Detailed performance reports and visualizations are included in the `statistics/` directory.
 
 ## Folder Structure
+```
 ├── statistics/ # Contains all analysis and plots
 │ └── analysis_plots.png # Example plot
 ├── restaurant_review/ # Contains all ML model implementations
@@ -69,7 +70,7 @@ Each model was evaluated using accuracy, precision, recall, and F1 score. Detail
 ├── app.py # Web application integration
 ├── requirements.txt # Dependencies for the project
 └── README.md # Project description and documentation
-
+```
 
 ## How to Run
 1. Clone the repository:
