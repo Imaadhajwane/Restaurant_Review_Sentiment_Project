@@ -18,7 +18,8 @@ This repository contains the implementation of sentiment analysis on a restauran
 ## Project Description
 This project focuses on analyzing and classifying restaurant reviews to determine their sentiment. The primary objective is to extract meaningful insights from reviews, predict ratings, and develop a web application to interact with the sentiment analysis model. The project employs various machine learning models to achieve these goals.
 
-![Project Flow](path/to/flowchart.png)  <!-- Replace with the path to your flowchart image -->
+![Project Flow](Restaurant-Review-Sentiment-Analysis-master/Flow_Diagram.png) 
+Flow Chart for the Completion of project
 
 ## Dataset
 **Dataset Name:** Restaurant reviews.csv
@@ -73,12 +74,12 @@ Each model was evaluated using accuracy, precision, recall, and F1 score. Detail
 ## How to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/restaurant-review-sentiment-analysis.git
+    git clone https://github.com/Imaadhajwane/Restaurant_Review_Sentiment_Project.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd restaurant-review-sentiment-analysis
+    cd Restaurant_Review_Sentiment_Project
     ```
 
 3. Install the required dependencies:
